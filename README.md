@@ -9,7 +9,6 @@ Real-time emotion detection using facial recognition powered by DeepFace and Ope
 ```bash
 pip install -r requirements.txt
 ```
-
 ## Scripts
 
 ### `recognition.py`
